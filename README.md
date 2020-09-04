@@ -14,8 +14,11 @@ The second dashboard focuses on the possible contributing factors that might hav
 # Data Sources
 
 [1] - https://datacatalog.worldbank.org/dataset/world-development-indicators
+
 [2] - https://www.pewresearch.org/global/2012/12/12/social-networking-popular-across- globe/
+
 [3] - https://www.pewresearch.org/global/2012/07/10/most-muslims-want-democracy- personal-freedoms-and-islam-in-political-life/
+
 [4] - https://www.arabbarometer.org/waves/arab-barometer-wave-iii/
 
 # Contact
