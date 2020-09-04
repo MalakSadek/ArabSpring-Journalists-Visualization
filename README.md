@@ -7,9 +7,9 @@ The dataset was filtered to contain data from 16 Arab countries, from the years 
 
 ![picture alt](https://github.com/MalakSadek/ArabSpring-Journalists-Visualization/blob/master/screenshot1.png "Screenshot1")
 
-![picture alt](https://github.com/MalakSadek/ArabSpring-Journalists-Visualization/blob/master/screenshot2.png "Screenshot2")
-
 The second dashboard focuses on the possible contributing factors that might have directly or indirectly helped bring on the Arab Spring. These factors are obtained from common or general knowledge from the region, as well as research papers published on the topic. The dashboard focuses only on 2012 (which was when most studies were conducted) and on the four countries which were the epicenter of the Arab Spring’s beginnings. The top main visualization can interactively filter other visualizations based on country when clicked on, but the other visualizations cannot act as filters. The main visualization is also filterable by education level, employment type, age group, and monthly household income. Since the income is presented in local currency in 2012, the dashboard features a webpage showing exchange rates for US dollars on 01/01/2012 for viewers to grasp the value more clearly. It also provides a button to go back to the first dashboard.
+
+![picture alt](https://github.com/MalakSadek/ArabSpring-Journalists-Visualization/blob/master/screenshot2.png "Screenshot2")
 
 # Data Sources
 
