@@ -11,6 +11,8 @@ The second dashboard focuses on the possible contributing factors that might hav
 
 ![picture alt](https://github.com/MalakSadek/ArabSpring-Journalists-Visualization/blob/master/screenshot2.png "Screenshot2")
 
+More information about the individual components and the insights gained can be found at: https://malaksadek.wordpress.com/2020/09/04/the-arab-spring-visualized/
+
 # Data Sources
 
 [1] - https://cpj.org/data/
