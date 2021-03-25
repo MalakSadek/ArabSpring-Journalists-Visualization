@@ -1,5 +1,5 @@
 # Arab Spring Journalists Visualization
-A Tableau visualization showing the Arab Spring's effect on journalists in the MENA region🗞️⚔️ (2020).
+A Tableau visualization showing the Arab Spring's effect on journalists in the MENA region 📰📊 (2020).
 
 The visualization consists of two `Tableau` dashboards. One explores the effect that the Arab Spring has had on jounralists in the MENA region, while the other explores the possible causes of the Arab Spring. The first dashboard has four views. There is also a gender filter, a toggle switch to view killed vs. imprisoned journalists, a slider for time period, and the ability to select or highlight specific countries. Each view also has an interactive feature where hovering over a data point highlights the data belonging to its corresponding country across all the views. 
 
@@ -29,4 +29,4 @@ More information about the individual components and the insights gained can be 
 
 * email: mfzs1@st-andrews.ac.uk
 * LinkedIn: www.linkedin.com/in/malak-sadek-17aa65164/
-* website: https://malaksadek.wordpress.com/
+* website: http://malaksadekapps.com/
